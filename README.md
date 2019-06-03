@@ -1,5 +1,6 @@
 # CLT20
-The purpose of the program is to create a database of player with their respective “Name”, “Skill” level(out of 100),”price” and “minimum bid value” of the players of the top  6 Teams in CLT20.
+The purpose of the program is to create a database of player with their respective “Name”, “Skill” level(out of 100),”price” and
+“minimum bid value” of the players of the top  6 Teams in CLT20.
 
 It allows user to:
 	ADD players to the database 
@@ -15,28 +16,6 @@ The entire program is enveloped with a user-friendly, intuitive interface (with 
 This program also consists of some of the validation checks on the variables which are as follows:-
 	1. Cost of players should be greater than or equal to $4 Millions
 	2. Minimum bid of the players should be greater than or equal to $2 Millions 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## SYNOPSIS
 
