@@ -2,8 +2,8 @@
 The purpose of the program is to create a database of player with their respective “Name”, “Skill” level(out of 100),”price” and
 “minimum bid value” of the players of the top  6 Teams in CLT20.
 
-It allows user to:
-	ADD players to the database 
+It allows user to:  
+	ADD players to the database  
 	VIEW entire reams with sorting options 
 	MODIFY details of the players
 	DELETE players
